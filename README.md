@@ -1,4 +1,4 @@
-## Hi there👋, call me Win 🐥👑
+## Hi there👋
 
 _A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure._
 
